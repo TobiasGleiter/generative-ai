@@ -16,7 +16,7 @@ Explore more [here](./literature/README.md).
 
 ## 🦆 Questions Addressed
 
-1. [Motivation...](./context/MOTIVATION.md)
+1. [Motivation...](./context/motivation/README.md)
 2. [Understanding AI, Machine Learning, and Deep Learning](./context/README.md)
 3. [Exploring "Generative AI"](/main/README.md)
 4. [Capabilities and Limitations of Generative AI](./main/README.md)

@@ -8,24 +8,29 @@ Source: Google (Feburary, 2024)
 
 ## 🤖 Artificial Intelligence (AI)
 
-First of all, what is human intelligence? Human intelligence is the combination of speechly intelligence, musically inteligence, logical-mathmatical intelligence, spatial intelligence, physical intelligence, and creating intelligence (Gardner et al. 2011, P 490-498). Die diversity of intelligence does show that it is not easy for a machine to completely pocess all these intelligence. (2)
+First of all, what is human intelligence? Human intelligence is accoring to Gardner et. al. the combination of
 
-Therfore AI can be defined as a intelligent behavior to solve problems. Based on this knowledge should a system generate automatically "inteligent" solutions. AI should also find solution that a humans probably not consider. (2)
+- speechly intelligence
+- musically inteligence
+- logical-mathmatical intelligence
+- spatial intelligence
+- physical intelligence
+- creating intelligence
+- and more...
 
-Besides that definition there are many different textual approaches to define AI.
+With this knowledge we can try to define Artificial Intelligence (AI) which is associated with Computers that possess human intelligence. One apporach is, that AI can be defined as a intelligent behavior to solve problems. AI should be able find automatically intelligent solutions and possibly sloution were humany didn't think of. (2) Besides this apporach to define AI there are many different other textual approaches to define AI. Three approaches:
 
-- The Encyclopedia Britannica defines AI as the ability digital computers or computer controlled robots who solve task that normally require higher intelligence of humans. (3)
+- The Encyclopedia Britannica defines AI as the ability digital computers or computer controlled robots who solve task that normally require higher intelligence of humans
+- Kreutzer (2019) defines AI as the ability of a maschine to solve kongitive tasks which requres the human intelligence
 - Elaine Rich (1983) defines Artificial Intelligence as the study of how to make computers do things which, at the moment, people are better. (1)(2)
 
-This definition of Elaine Richt is currently and in 50 years one of the best (1). Tasks like executing many calculations in a short amount of time are strength of the computers but react to an unknown circumstance like entering a room and handle if necessary in milliseconds. (1)
-
-This definition of Elaine Rich is not the end. AI will, as other technologies, further developed and get better and better. (1)
+The result is, that it is not easy to define the term AI. Elain Rich's definition is one of the simplest and best but this definiton is also not the end. (1) AI will get better at solving tasks that reuqires human intelligence and with the time it gets better and better. (1)
 
 ## 🧻 Machine Learning (ML)
 
-Machine Learning is a Subfield of AI (1) and the AI is moreover a discipline. (Google) Machine Learning uses algorithms that are capable of self-learning. (2) In this case is it necessary to have high quality data. These algorithms dont need any extra coding effort to improve there output - it's called self-daptive algorithms. (2)
+Machine Learning is a Subfield of AI (1) and the AI is moreover a discipline. (Google) Machine Learning uses algorithms that are capable of self-learning. (2) These self-learning algorithms don't need any extra coding effort to improve there output - it's called self-daptive algorithms. (2) ML is therefore a way to syntecially generate or predict data based on knowlede.
 
-In Machine Learning we can differentiate between (4)(5):
+In Machine Learning we can differentiate between for subfield (4)(5):
 
 - Unsupervised learning (UL) which uses unlabelled data.
   The AI-system already knows the right answers and tries to derive the answer from the data. The task of the algorithmen is in this case known beforehand. (2)
