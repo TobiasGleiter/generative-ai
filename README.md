@@ -16,9 +16,6 @@ Explore more [here](./literature/README.md).
 
 ## 🦆 Questions Addressed
 
-1. [Motivation...](./context/motivation/README.md)
+1. [Motivation](./context/motivation/README.md)
 2. [Understanding AI, Machine Learning, and Deep Learning](./context/README.md)
-3. [Exploring "Generative AI"](/main/README.md)
-4. [Capabilities and Limitations of Generative AI](./main/README.md)
-
-(Content optimized with [ChatGPT](https://chat.openai.com))
+3. [What is a neuronal network?](./context/neuronal-networks/README.mdd)
