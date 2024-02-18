@@ -1,6 +1,6 @@
 # 🥶 Generative AI: Where Does It Sit?
 
-_Key words: AI, ML, and Deep Learning form a hierarchy in the world of artificial intelligence._
+_Key words: AI, ML, Deep Learning_
 
 ![AI context](./images/context-ai.png)
 
