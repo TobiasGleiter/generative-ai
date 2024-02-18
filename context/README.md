@@ -6,7 +6,7 @@ _Key words: AI, ML, Deep Learning_
 
 Source: Google (Feburary, 2024)
 
-## 🤖 Defining AI: Precisely defining "intelligence" proves elusive. Some propose:
+## 🤖 Defining AI
 
 - Google's Definition: AI allows machines to perform tasks typically needing human intelligence. But how do we measure this "intelligence"?
 - Behavior-Based Definition: Aiming to create machines behaving intelligently, but lacking precision. (1)
@@ -15,7 +15,7 @@ Source: Google (Feburary, 2024)
 
 Key Takeaway: The lack of a clear definition for "intelligence" makes defining AI inherently challenging.
 
-## 🧻 Machine Learning (ML): A subfield of AI.
+## 🧻 Machine Learning (ML)
 
 ## 🦌 Deep Learning
 
