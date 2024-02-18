@@ -1,17 +1,24 @@
-# 🏆 Generative AI: Hype or Helper?
+# 🏆 Generative AI: Motivation
 
-Generative AI can create text, images, code, and more. It's useful for generating content, translation, product visuals, and software development. While powerful, it's important to remember the hype cycle. Currently, generative AI is at the peak of inflated expectations. Don't be disillusioned; it still has potential.
+Generative AI can create text, images, code, and more. It's useful for generating content, translation, product visuals, and software development.
+
+I created this images on my local computer using the [wuerstchen](https://github.com/dome272/Wuerstchen) model:
+
+![Ironman, AI Generated](./images/motivation/ironman.png)
+![Cat, AI Generated](./images/motivation/cat.png)
 
 ## 🔑 Key Use Cases:
 
-Content creation: SEO, customer service, education
-Visuals: Synthetic product images, advertising
-Code: Development, review, documentation
+- Content creation: SEO, customer service, education
+- Visuals: Synthetic product images, advertising
+- Code: Development, review, documentation
+
 Examples:
 
-Healthcare: Personalized medicine, medical image interpretation
-Finance: AI-managed portfolios, content analysis
-Manufacturing: Product design optimization, diagnostics
+- Healthcare: Personalized medicine, medical image interpretation
+- Finance: AI-managed portfolios, content analysis
+- Manufacturing: Product design optimization, diagnostics
+
 Remember: Generative AI is a tool, not a superpower. Use it wisely!
 
 ## 😵‍💫 Hype Cycle:
