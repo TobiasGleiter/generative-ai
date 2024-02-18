@@ -2,12 +2,11 @@
 
 Generative AI can create text, images, code, and more. It's useful for generating content, translation, product visuals, and software development.
 
-I created this images on my local computer using the [wuerstchen](https://github.com/dome272/Wuerstchen) model:
+I created this image on my local computer using the [wuerstchen](https://github.com/dome272/Wuerstchen) model:
 
 ![Ironman, AI Generated](./images/motivation/ironman.png)
-![Cat, AI Generated](./images/motivation/cat.png)
 
-## 🔑 Key Use Cases:
+## 🔑 Possible Use Cases:
 
 - Content creation: SEO, customer service, education
 - Visuals: Synthetic product images, advertising
@@ -28,9 +27,7 @@ Gartner predicts 50% of software engineers will use ML-powered coding tools by 2
 ![Hype Cycle for AI 2023](./images/motivation/swe-hc-image.png)
 Source: Garnter.com (Febraury 2024)
 
-## 🔛 Further Reading:
+## References:
 
 Gartner Hype Cycle: https://www.gartner.com/en/articles/what-s-new-in-artificial-intelligence-from-the-2023-gartner-hype-cycle
 Gartner Press Release: https://www.gartner.com/en/articles/what-is-platform-engineering
-
-Optimized with [GEMINI](https://gemini.google.com/app)
