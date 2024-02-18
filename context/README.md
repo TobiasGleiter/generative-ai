@@ -23,21 +23,27 @@ This definition of Elaine Rich is not the end. AI will, as other technologies, f
 
 ## 🧻 Machine Learning (ML)
 
-Machine Learning is a Subfield of AI (1) and the AI is moreover a discipline. (Google) Machine Learning can be defined as Program or System that trains a model from input data. The trained model can make useful prediction, therfore Machine Learning gives computers the ability to learn without explicit programming. (Google)
+Machine Learning is a Subfield of AI (1) and the AI is moreover a discipline. (Google) Machine Learning uses algorithms that are capable of self-learning. (2) In this case is it necessary to have high quality data. These algorithms dont need any extra coding effort to improve there output - it's called self-daptive algorithms. (2)
 
-In Machine Learning we can differentiate between:
+In Machine Learning we can differentiate between (4)(5):
 
-- Unsupervised learning (UL) which uses unlabelled data
+- Unsupervised learning (UL) which uses unlabelled data.
+  The AI-system already knows the right answers and tries to derive the answer from the data. The task of the algorithmen is in this case known beforehand. (2)
 - Supervised learning (SL) which uses labelled data
+  The ai-system dont know the aim and tries to detect patterns or similarities. The task of the algorithmen is to detect these patterns independently. (2)
 - Reinforcment learning
+  In this case the ai-system is trained in an interative tiral and error process were the output is validated as good or bad. (2)
 - Deep learning using neuronal networks (interconnected notes)
-
-## 🦌 Deep Learning
+  A special Subfield of ML is Deep Learning (4)(5)(6)(7). Deep in this case means a huge amout of neuronal networks. Deep Learning can work also with greater depth of dataresources (2)
 
 ## 🦫 Additional References
 
 1. W. Ertel, "Grundkurs Künstliche Intelligenz: eine praxisorientierte Einführung", Springer Vieweg, Wiesbaden, 2021
 2. Ralf T., Kreutzer, "Künstliche Intelligenz verstehen: Grundlagen – Use-Cases – unternehmenseigene KI-Journey", Springer Fachmedien Wiesbaden, Wiesbaden, 2019
 3. Encyclopedia Britannica
+4. McKinsey 2018
+5. Gentsch 2018
+6. Kelly 2014
+7. Domingos 2015
 
 Optimized with [GEMINI](https://gemini.google.com/app)
