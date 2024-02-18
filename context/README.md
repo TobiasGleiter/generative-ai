@@ -6,7 +6,7 @@ _Key words: AI, ML, Deep Learning_
 
 Source: Google (Feburary, 2024)
 
-## 🤖 Defining AI
+## 🤖 Artificial Intelligence (AI)
 
 - Google's Definition: AI allows machines to perform tasks typically needing human intelligence. But how do we measure this "intelligence"?
 - Behavior-Based Definition: Aiming to create machines behaving intelligently, but lacking precision. (1)
