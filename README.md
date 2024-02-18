@@ -18,4 +18,4 @@ Explore more [here](./literature/README.md).
 
 1. [Motivation](./context/motivation/README.md)
 2. [Understanding AI, Machine Learning, and Deep Learning](./context/README.md)
-3. [What is a neuronal network?](./context/neuronal-networks/README.mdd)
+3. [What is a neuronal network?](./context/neuronal-networks/README.md)
