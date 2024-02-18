@@ -39,11 +39,9 @@ In Machine Learning we can differentiate between (4)(5):
 ## 🦫 Additional References
 
 1. W. Ertel, "Grundkurs Künstliche Intelligenz: eine praxisorientierte Einführung", Springer Vieweg, Wiesbaden, 2021
-2. Ralf T., Kreutzer, "Künstliche Intelligenz verstehen: Grundlagen – Use-Cases – unternehmenseigene KI-Journey", Springer Fachmedien Wiesbaden, Wiesbaden, 2019
+2. Ralf T., Kreutzer, (2019) "Künstliche Intelligenz verstehen: Grundlagen – Use-Cases – unternehmenseigene KI-Journey", Springer Fachmedien Wiesbaden, Wiesbaden
 3. Encyclopedia Britannica
-4. McKinsey 2018
-5. Gentsch 2018
-6. Kelly 2014
-7. Domingos 2015
-
-Optimized with [GEMINI](https://gemini.google.com/app)
+4. McKinsey. (2018b). An executive’s guide to AI, San Francisco.
+5. Gentsch, P. (2018). Künstliche Intelligenz für Sales, Marketing und Service, Mit AI und Bots zu einem Algorithmic Business – Konzepte, Technologien und Best Practices. Wiesbaden.
+6. Kelly, K. (2014). The three breakthroughs that have finally unleashed AI on the world. Wired. http://kk.org/wp-content/uploads/2010/06/The-Three-Breakthroughs-That-Have-Finally-Unleashed-AI-on-the-World-_-WIRED.pdf. Zugegriffen: 26. Mai 2018.
+7. Domingos, P. (2015). The master algorithm: How the quest for the ultimate learning machine will remake our world. New York.
