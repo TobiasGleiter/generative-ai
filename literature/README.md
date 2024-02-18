@@ -32,10 +32,10 @@ The paper reviews are realy short with three steps:
 
 ### 1️⃣ P1, ChatGPT vs. Bard - Which is better at solving coding problems
 
-Introduction: This paper focusing on the coding tasks solving of the two: ChatGPT and BARD (now Gemini, Feb 2024). It addresses Leet Code Problems and tested how the models solved the problems.
+1. Introduction: This paper focusing on the coding tasks solving of the two: ChatGPT and BARD (now Gemini, Feb 2024). It addresses Leet Code Problems and tested how the models solved the problems.
 
-Insights: The reasearch did and binary approach of testing the models. A answer was accepted when it passed 95 % of the tests. The paper claims that ChatGPT was in all cases better than BARD. Table 1 does show the results.
+2. Insights: The reasearch did and binary approach of testing the models. A answer was accepted when it passed 95 % of the tests. The paper claims that ChatGPT was in all cases better than BARD. Table 1 does show the results.
 
 ![Table 1: Correctly solved questions on easy and medium difficulty for ChatGPT and Bard with/without 95 % acceptance rate (Image and Text from the Paper)](./images/p1/chatgpt-vs-bard.png)
 
-Result: ChatGPT did better than BARD in all Leet Code Problems.
+3. Result: ChatGPT did better than BARD in all Leet Code Problems.
