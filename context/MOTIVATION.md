@@ -2,7 +2,7 @@
 
 Generative AI can create text, images, code, and more. It's useful for generating content, translation, product visuals, and software development. While powerful, it's important to remember the hype cycle. Currently, generative AI is at the peak of inflated expectations. Don't be disillusioned; it still has potential.
 
-## Key Use Cases:
+## 🔑 Key Use Cases:
 
 Content creation: SEO, customer service, education
 Visuals: Synthetic product images, advertising
@@ -14,14 +14,14 @@ Finance: AI-managed portfolios, content analysis
 Manufacturing: Product design optimization, diagnostics
 Remember: Generative AI is a tool, not a superpower. Use it wisely!
 
-## Hype Cycle:
+## 😵‍💫 Hype Cycle:
 
 Gartner predicts 50% of software engineers will use ML-powered coding tools by 2027. While tools like AISE promise to automate development, focus on practical applications alongside the hype.
 
 ![Hype Cycle for AI 2023](./images/motivation/swe-hc-image.png)
 Source: Garnter.com (Febraury 2024)
 
-## Further Reading:
+## 🔛 Further Reading:
 
 Gartner Hype Cycle: https://www.gartner.com/en/articles/what-s-new-in-artificial-intelligence-from-the-2023-gartner-hype-cycle
 Gartner Press Release: https://www.gartner.com/en/articles/what-is-platform-engineering
