@@ -55,7 +55,9 @@ The paper reviews are realy short with three steps:
 
 3. Result: ChatGPT and BARD do have different strengths and limitations. In the right use case one or the other should perform better.
 
-##
+---
+
+## 🦫 Bibliographie
 
 1. B. Liu, Q. Cai, Z. Yang, and Z. Wang, “Neural proximal/trust region policy optimization attains globally optimal policy,” arXiv preprint arXiv:1906.10306, 2019
 2. B. Liu, Q. Cai, Z. Yang, and Z. Wang, “Neural proximal/trust region policy optimization attains globally optimal policy,” arXiv preprint arXiv:1906.10306, 2019
