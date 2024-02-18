@@ -36,7 +36,6 @@ Introduction: This paper focusing on the coding tasks solving of the two: ChatGP
 
 Insights: The reasearch did and binary approach of testing the models. A answer was accepted when it passed 95 % of the tests. The paper claims that ChatGPT was in all cases better than BARD. Table 1 does show the results.
 
-chatgpt-vs-bard.png
 ![Table 1: Correctly solved questions on easy and medium difficulty for ChatGPT and Bard with/without 95 % acceptance rate (Image and Text from the Paper)](./images/p1/chatgpt-vs-bard.png)
 
 Result: ChatGPT did better than BARD in all Leet Code Problems.
