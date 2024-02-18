@@ -35,3 +35,4 @@ _ML is a subfield of AI_
 ## 🦫 Bibliographie
 
 1. W. Ertel, "Grundkurs Künstliche Intelligenz: eine praxisorientierte Einführung", Springer Vieweg, Wiesbaden, 2021
+2. Ralf T., Kreutzer, "Künstliche Intelligenz verstehen: Grundlagen – Use-Cases – unternehmenseigene KI-Journey", Springer Fachmedien Wiesbaden, Wiesbaden, 2029
