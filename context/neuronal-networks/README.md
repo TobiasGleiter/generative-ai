@@ -16,7 +16,7 @@ The hidden Layer can be 100, 1000 or more Layers. The system learns (hopefully) 
 
 The nodes are connected with each other this means that all inputs of one node of the layer n is connected with many of the nodes of the previous layer n-1. It is possible that the input layer does only have one node. All outputs of the layer n are connected with many of the next layer n+1. The connection represent the passing of information to the next layer and node. The output layer can have one or more nodes (1)
 
-Besides that the depth of an neuronal network is defined as the amount of hidden layers. The width of the network is defined as the amount of nodes of the hidden layers or the amount of input and output connections per node. There are different variations possible that allow forward and backward passing of information between the layers.
+Besides that the depth of an neuronal network is defined as the amount of hidden layers. The width of the network is defined as the amount of nodes of the hidden layers or the amount of input and output connections per node. There are different variations possible that allow forward and backward passing of information between the layers. (1)
 
 Each node is assosiated as an own knowledge base. It represents rules that are programmed but also rules which were learned on the training process.
 
