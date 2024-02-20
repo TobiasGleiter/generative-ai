@@ -57,7 +57,7 @@ The paper reviews are realy short with three steps:
 
 ---
 
-## 🦫 Bibliographie
+## 🦫 References
 
 1. B. Liu, Q. Cai, Z. Yang, and Z. Wang, “Neural proximal/trust region policy optimization attains globally optimal policy,” arXiv preprint arXiv:1906.10306, 2019
 2. B. Liu, Q. Cai, Z. Yang, and Z. Wang, “Neural proximal/trust region policy optimization attains globally optimal policy,” arXiv preprint arXiv:1906.10306, 2019
