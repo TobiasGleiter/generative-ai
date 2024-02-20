@@ -2,7 +2,7 @@
 
 ## 🤖 Introduction
 
-This repository offers an introduction to Generative AI, focusing on theory rather than diving deep into specific algorithms.
+This repository offers an introduction to Generative AI, focusing on the concepts rather than diving deep into specific algorithms.
 
 _Key Concepts: Generative AI, Machine Learning, Code Generation_
 
