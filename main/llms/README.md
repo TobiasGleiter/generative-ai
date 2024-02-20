@@ -10,6 +10,24 @@ LLMs differ in their traing strategies, model architectures, and uses cases. For
 
 ![Evolutionary Tree LLMs](../images/llms/evolutionary-tree-llms.png)
 
+Evolutionary Tree LLMs (Source: 1, Page 3)
+
+**Encoder-Decoder or Encoder-only** (BERT-style)
+
+- Training: Masked Language Models
+- Model type: Discriminative
+- Pretrain task: Predict masked words
+
+LLMs: ELMo, BERT, RoBERTa, DistilBERT, BioBERT (1)
+
+**Decoder-only** (GPT-sytle)
+
+- Training Autoregressive Language Models
+- Model type: Generative
+- Pretrain task: Predict next word
+
+LLMs: GPT-3, OPT, PaLM, BLOOM, MT-NLG (1)
+
 ## Further acknowledgement by J. Yang et. al (1)
 
 The reference states some knowledge they possed while studying the llm field:
