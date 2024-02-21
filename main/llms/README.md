@@ -2,7 +2,7 @@
 
 ## What are LLMs?
 
-Large Language Models (LLMs) are huge language models pretrained on large amounts of datasets withput tuning on data for specific tasks. (1)(2) LLMs combine three characteristics. First a large-scale, sequential neural network network (e.g. transformer with attention mechanism). Second, the "neural network is pretrained through self-supervision in which auxiliary rass are desined to learn a representation of naturla language without risk of overfitting (e.g. next-word prediction)." (2) Third, the pretaining includes large-scale data sets like Wikipedia, or even multi-language datasets.
+Large Language Models (LLMs) are huge language models pretrained on large amounts of datasets withput tuning on data for specific tasks. (1)(2) LLMs combine three characteristics. First a large-scale, sequential neural network network (e.g. [transformer](../transformer/README.md) with attention mechanism). Second, the "neural network is pretrained through self-supervision in which auxiliary rass are desined to learn a representation of naturla language without risk of overfitting (e.g. next-word prediction)." (2) Third, the pretaining includes large-scale data sets like Wikipedia, or even multi-language datasets.
 
 ## What are the state of the art language models out there?
 
@@ -40,5 +40,5 @@ The reference states some knowledge they possed while studying the llm field:
 
 ## 🦫 References
 
-1. J., Yang et. al. “Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond”, arXiv ID: arXiv:2304.13712, 2023
-2.
+1. J., Yang et al., “Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond”, arXiv ID: arXiv:2304.13712, 2023
+2. S., Feuerriegel et al., "Generative AI", 2024
